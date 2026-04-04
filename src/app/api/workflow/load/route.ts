@@ -1,4 +1,4 @@
-export const runtime  ="node.js";
+export const runtime  ="nodejs";
 import { prisma } from "@/lib/prisma";
 import { auth } from "@clerk/nextjs/server";
 
